@@ -2,7 +2,7 @@ const axios = require('axios').default
 
 const BTC_ID = '1'
 
-const KEY = 'f3b4be03-9b2e-4a0d-918d-ce8c8619affb'
+const KEY = ''
 
 const minutes = 60000
 
